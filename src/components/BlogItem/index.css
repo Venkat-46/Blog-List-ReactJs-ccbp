@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.blog-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
